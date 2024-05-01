@@ -1,0 +1,26 @@
+.form {
+  width: 400px;
+  padding: 8px;
+  border: 1px solid #6241f1;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin: 30px 0;
+}
+
+.formField {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  color: #6241f1;
+}
+
+.formLabel {
+  font-size: 20px;
+  color: #6241f1;
+}
+
+.formButton {
+  width: 100px;
+  background-color: bisque;
+}
